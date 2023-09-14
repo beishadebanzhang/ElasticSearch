@@ -1,0 +1,20 @@
+windows安装:
+    单机:
+        Elasticsearch 的官方地址：https://www.elastic.co/cn/
+        下载地址：https://www.elastic.co/cn/downloads/past-releases#elasticsearch
+        目录结构:
+            bin 可执行脚本目录
+            config 配置目录
+            jdk 内置 JDK 目录
+            lib 类库
+            logs 日志目录
+            modules 模块目录
+            plugins 插件目录
+        访问地址: http://localhost:9200
+        端口占用:
+            9300 Elasticsearch集群间组件的通信端口
+            9200 浏览器访问的http协议RESTFul端口
+    集群:
+Linux安装:
+    单机:
+    集群:
